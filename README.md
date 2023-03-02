@@ -9,3 +9,6 @@
 <div>
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Cokeysama&theme=dark&hide_border=true" />
 </div>
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Cokeysama&theme=xcode" />
+</div>
