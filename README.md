@@ -11,7 +11,7 @@
 </div>
 <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cokeysama&theme=dark&hide_border=true" />
-    <img src="https://github-profile-trophy.vercel.app/?username=Cokeysama&title=Stars&column=1" width="19%"/> 
+    <img src="https://github-profile-trophy.vercel.app/?username=Cokeysama&title=Stars&column=1" width="29%"/> 
 </div>
 <div>
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Cokeysama&theme=react-dark" width="80%"/>
