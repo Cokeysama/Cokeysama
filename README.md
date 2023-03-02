@@ -4,7 +4,7 @@
 
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cokeysama&theme=dark&layout=compact)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Cokeysama&show_icons=true&theme=dark&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cokeysama&theme=white&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Cokeysama&show_icons=true&theme=white&count_private=true)
 
 ![](https://activity-graph.herokuapp.com/graph?username=Cokeysama&theme=github)
