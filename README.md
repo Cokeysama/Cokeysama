@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
 
 ![skills](https://skillicons.dev/icons?i=c,cpp,go,py,html,css,js,nodejs,java,md,pytorch,tensorflow,express,qt,react,cmake,docker,git,linux,nginx,mysql,githubactions,heroku,visualstudio,vscode)
-![skills](https://skillicons.dev/icons?
+![skill](https://skillicons.dev/icons?
 i=c,cpp,go,py,html,css,js,nodejs,java,md,pytorch,tensorflow,express,qt,react,cmake,docker,git,linux,nginx,mysql,githubactions,heroku,visualstudio,vscode)
 
 <div> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Cokeysama&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
