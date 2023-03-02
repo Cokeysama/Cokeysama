@@ -8,6 +8,7 @@
 </div>
 <div>
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Cokeysama&theme=dark&hide_border=true" />
+    <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 </div>
 <div>
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Cokeysama&theme=react-dark" width="80%"/>
