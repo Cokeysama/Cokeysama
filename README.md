@@ -10,5 +10,5 @@
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Cokeysama&theme=dark&hide_border=true" />
 </div>
 <div align="center">
-    <img src="github-readme-activity-graph.cyclic.app/graph?username=Cokeysama&theme=xcode" />
+    <img src="github-readme-activity-graph.cyclic.app/graph?username=Cokeysama&theme=react" />
 </div>
